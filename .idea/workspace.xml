@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c42b0e4b-973f-479b-abd8-b61f6647628f" name="Changes" comment="">
+    <list default="true" id="c42b0e4b-973f-479b-abd8-b61f6647628f" name="Changes" comment="add code.">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FlyHigh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FlyHigh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FlyLow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/FlyLow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/IFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/IFly.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/UIT/SE330/IChay",
+    "last_opened_file_path": "D:/UIT/SE330/IBay",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,11 +55,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681897946750</updated>
-      <workItem from="1681897948058" duration="695000" />
+      <workItem from="1681897948058" duration="1311000" />
+      <workItem from="1682134083962" duration="3000" />
     </task>
+    <task id="LOCAL-00001" summary="add code.">
+      <created>1681898668506</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681898668506</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add code." />
+    <option name="LAST_COMMIT_MESSAGE" value="add code." />
   </component>
 </project>

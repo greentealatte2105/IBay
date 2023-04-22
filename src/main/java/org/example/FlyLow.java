@@ -3,6 +3,6 @@ package org.example;
 public class FlyLow implements IFly{
     @Override
     public void Fly() {
-        System.out.println("Toi co the bay thap.");
+        System.out.println("I can fly low (modified).");
     }
 }
