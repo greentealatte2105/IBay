@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c42b0e4b-973f-479b-abd8-b61f6647628f" name="Changes" comment="add code.">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="c42b0e4b-973f-479b-abd8-b61f6647628f" name="Changes" comment="modified src code.">
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681897946750</updated>
       <workItem from="1681897948058" duration="1311000" />
-      <workItem from="1682134083962" duration="3000" />
+      <workItem from="1682134083962" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="add code.">
       <created>1681898668506</created>
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681898668506</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modified src code.">
+      <created>1682134207946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682134207946</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add code." />
-    <option name="LAST_COMMIT_MESSAGE" value="add code." />
+    <MESSAGE value="modified src code." />
+    <option name="LAST_COMMIT_MESSAGE" value="modified src code." />
   </component>
 </project>
